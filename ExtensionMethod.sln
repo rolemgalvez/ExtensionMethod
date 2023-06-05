@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkTwentyNine.ConsoleUI", "HomeworkTwentyNine.ConsoleUI\HomeworkTwentyNine.ConsoleUI.csproj", "{1590871F-2A36-43DB-BB75-CAC63E42B7B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkTwentyNine.Library", "HomeworkTwentyNine.Library\HomeworkTwentyNine.Library.csproj", "{29F1BB16-4DD0-4324-B4C7-7C7E2D43BA7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1590871F-2A36-43DB-BB75-CAC63E42B7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1590871F-2A36-43DB-BB75-CAC63E42B7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1590871F-2A36-43DB-BB75-CAC63E42B7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1590871F-2A36-43DB-BB75-CAC63E42B7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F1BB16-4DD0-4324-B4C7-7C7E2D43BA7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F1BB16-4DD0-4324-B4C7-7C7E2D43BA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F1BB16-4DD0-4324-B4C7-7C7E2D43BA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F1BB16-4DD0-4324-B4C7-7C7E2D43BA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C7F2D2F-67CD-4960-BD66-9B59C175F714}
+	EndGlobalSection
+EndGlobal
